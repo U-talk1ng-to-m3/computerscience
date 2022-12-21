@@ -78,8 +78,8 @@ int main()
 	
 	while(1)
 	{
-		printf("sayi eklemek ici 1 Ç \n");
-		printf("sayi çikarmak ici 2 \n");
+		printf("sayi eklemek ici 1 Ã‡ \n");
+		printf("sayi Ã§ikarmak ici 2 \n");
 		printf("yazdirmak icin 3 \n");
 		printf("islemi sonlandirmak icin 4 : \n");
 		scanf("%d",&secim);
